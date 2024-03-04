@@ -1,0 +1,20 @@
+{
+  "name": "crypto-game-app-x",
+  "version": "0.1.1",
+  "description": "Sample application for the blockchain-based game (X edition)",
+  "main": "game-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dodesunu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dodesunu/crypto-game-app-x.git"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "blockchain-game-engine-x": "^0.1.0",
+    "crypto-game-app-x": "^0.1.0"
+  }
+}
