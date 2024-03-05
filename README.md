@@ -20,3 +20,6 @@ Player 1 moves forward.
 Player 2 collects a power-up.
 Player 1 defeats the boss.
 Each action is added as a separate block to the blockchain. Finally, the application prints the entire blockchain, showcasing the chain of events in the game.
+
+## Autor
+IguanaXX
